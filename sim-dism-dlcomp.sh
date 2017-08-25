@@ -1,7 +1,7 @@
 #!/bin/bash
 #run: $ sh sim-dism-dlcomp.sh
 NEWDIR="sim-dism"
-wget -r -nH -nd -np -A nm.dism -R index.html* -e robots=off http://www.cse.usf.edu/~ligatti/compilers-17/as1/dism/
+wget http://www.cse.usf.edu/~ligatti/compilers-17/as1/dism/nm.dism
 mkdir $NEWDIR
 cd $NEWDIR
 wget -r -nH -nd -np -R index.html* -e robots=off http://www.cse.usf.edu/~ligatti/compilers-17/as1/dism/sim-dism/
