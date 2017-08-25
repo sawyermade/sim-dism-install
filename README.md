@@ -9,6 +9,6 @@ Installs to $HOME/.local/bin
 ```
 $ git clone https://github.com/sawyermade/sim-dism-install.git
 $ cd sim-dism-install
-$ bash install-sim-dism.sh
+$ source install-sim-dism.sh
 $ sim-dism nm.dism
 ```
