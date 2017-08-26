@@ -1,6 +1,6 @@
 # sim-dism-install
 
-Installs sim-dism on ubuntu 16.04 LTS
+Installs sim-dism on ubuntu 16.04 LTS locally
 
 # Install Instructions
 
